@@ -1,9 +1,4 @@
-Perfect 🔥 — here’s your **ready-to-paste `README.md`** file for your GitHub repo:
 
-It’s clean, professional, and follows the exact **Kalvium submission format**.
-You can just copy-paste this into your project’s root folder (`README.md`).
-
----
 
 # 🧩 **User Registration Planning – Mageshwaran Thulasiraman**
 
